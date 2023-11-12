@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Friese Stabij</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>Welkom op de Friese Stabij-website</h1>
+        <p>Ontdek alles over dit prachtige hondenras!</p>
+    </header>
+
+    <nav>
+        <!-- Voeg navigatielinks toe indien nodig -->
+    </nav>
+
+    <main>
+        <section>
+            <h2>Over de Friese Stabij</h2>
+            <p>
+                De Friese Stabij, ook bekend als de Stabyhoun, is een Nederlands hondenras dat afkomstig is uit Friesland. Het ras staat bekend om zijn vriendelijke aard, intelligentie en veelzijdigheid.
+            </p>
+            <p>
+                De Friese Stabij is middelgroot, heeft een elegante verschijning en een opvallende vacht. Ze zijn zeer geschikt als gezinshond en hebben een sterk jachtinstinct, wat hen geschikt maakt voor verschillende activiteiten.
+            </p>
+        </section>
+
+        <section>
+            <h2>Goede eigenschappen van de Friese Stabij</h2>
+            <p>
+                Het Friese Stabij-hondenras staat bekend om verschillende goede eigenschappen die het geliefd maken bij hondenliefhebbers. Enkele opvallende eigenschappen zijn:
+            </p>
+            <ul>
+                <li><strong>Vriendelijkheid:</strong> Friese Stabijs zijn over het algemeen vriendelijk en sociaal. Ze vormen vaak sterke banden met hun gezin.</li>
+                <li><strong>Intelligentie:</strong> Deze honden zijn intelligent en leren snel. Dit maakt ze geschikt voor verschillende vormen van training.</li>
+                <li><strong>Veelzijdigheid:</strong> Friese Stabijs zijn veelzijdig en gedijen goed in verschillende omgevingen, of het nu in een stedelijke omgeving of op het platteland is.</li>
+                <li><strong>Jachtinstinct:</strong> Ze hebben een sterk jachtinstinct, wat hen geschikt maakt voor activiteiten zoals speuren en apporteren.</li>
+                <!-- Voeg meer goede eigenschappen toe -->
+            </ul>
+        </section>
+
+        <section>
+            <h2>Uiterlijk van de Friese Stabij</h2>
+            <p>
+                Het uiterlijk van de Friese Stabij kenmerkt zich door zijn elegante bouw en opvallende vacht. Enkele kenmerken zijn:
+            </p>
+            <ul>
+                <li><strong>Grootte:</strong> Middelgroot met een evenwichtige en harmonieuze bouw.</li>
+                <li><strong>Vacht:</strong> Langharig met een dichte ondervacht. De vacht kan verschillende kleuren hebben, waaronder zwart, bruin, en oranje met witte aftekeningen.</li>
+                <li><strong>Hoofd:</strong> Markant hoofd met een rechte neus en alerte ogen.</li>
+                <li><strong>Oren:</strong> Vlaggendragende oren die naar voren hangen.</li>
+                <li><strong>Staart:</strong> Hoog aangezette staart die recht omhoog wordt gedragen.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Verzorging van de Friese Stabij</h2>
+            <p>
+                De verzorging van een Friese Stabij vereist regelmatig borstelen van de vacht, dagelijkse lichaamsbeweging en een uitgebalanceerd dieet. Zorg ervoor dat je ook regelmatig de oren en tanden controleert.
+            </p>
+        </section>
+
+        <section>
+            <h2>Geschiedenis van de Friese Stabij</h2>
+            <p>
+                De Friese Stabij heeft een rijke geschiedenis die teruggaat tot enkele eeuwen geleden. Ontdek meer over de oorsprong en evolutie van dit unieke hondenras.
+            </p>
+        </section>
+
+    </main>
+
+    <footer>
+        <!-- Voeg voetertekst toe -->
+    </footer>
+
+</body>
+</html>
